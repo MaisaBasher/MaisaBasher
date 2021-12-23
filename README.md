@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaisaBasher. 
-I am CS major at Georgia Istittue of Technology. I am currently looking for Software Engineering Internship for next Sumeer 2022.
+I am a CS major at Georgia Istittue of Technology. I am currently looking for Software Engineering Internship for next Sumeer 2022.
 
 
 <!---
