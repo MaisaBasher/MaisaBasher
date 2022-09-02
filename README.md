@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaisaBasher. 
 I am junior CS major student at Georgia Institute of Technology. 
-My concentrations are Intelligence and Media.
+My concentrations are People and Media.
 
 
 
