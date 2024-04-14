@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaisaBasher. 
-I am junior CS major student at Georgia Institute of Technology. 
+I graduated from Georgia Institute of Technology with a Bachelor’s degree in Computer Science (Fall 2023). 
 My concentrations are People and Media.
 
 
